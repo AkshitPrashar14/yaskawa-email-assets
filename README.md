@@ -1,0 +1,1 @@
+# yaskawa-email-assets
